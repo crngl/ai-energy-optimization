@@ -43,7 +43,6 @@ Kullanıcılar aşağıdaki değişkenleri girerek enerji tüketimi tahmini alab
 - Hava Sıcaklığı (°C)
 - Hammadde Sıcaklığı (°C)
 
-![Uygulama Görseli](./notebooks/screenshots/demo_screenshot.png)
 
 ## 🧪 Nasıl Çalıştırılır?
 
@@ -59,7 +58,7 @@ streamlit run app.py
 
 Enerji tahmini ile birlikte tahmin girdileri aşağıdaki gibi grafikle gösterilir:
 
-![Enerji Grafiği](./notebooks/screenshots/prediction_chart.png)
+
 
 ## ✨ Katkı ve Geliştirme
 
